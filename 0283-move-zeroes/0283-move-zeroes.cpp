@@ -6,29 +6,13 @@ public:
             return;
 
         int l = 0;
-        int r = 1;
 
-        while(r<nums.size() && l<r){
-            if(nums[l]!=0){
-                r++;
+        for (int r = 0; r < nums.size(); r++) {
+            if (nums[r] != 0) {
+                swap(nums[l], nums[r]);
                 l++;
-                continue;
             }
-            if(nums[l]==0 && nums[r]==0){
-                r++;
-                continue;
-            }
-            if(nums[l]==0 && nums[r]!=0){
-                int temp = nums[r];
-                nums[r] = 0;
-                nums[l] = temp;
-                r++;
-                l++;
-                continue;
-            }
-
         }
-
         return;
     }
 };

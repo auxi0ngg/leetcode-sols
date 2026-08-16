@@ -15,7 +15,6 @@ public:
             if(target==sum)
                 break;
         }
-        vector<int> ans = {(l+1),(r+1)};
-        return ans;
+        return {l+1,r+1};
     }
 };

@@ -13,7 +13,7 @@ public:
                 r--;
             }
             if(target==sum)
-                break;
+                return {l+1,r+1};
         }
         return {l+1,r+1};
     }

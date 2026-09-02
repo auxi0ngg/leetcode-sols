@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/auxi0ngg/leetcode-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/auxi0ngg/leetcode-sols/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/auxi0ngg/leetcode-sols/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/auxi0ngg/leetcode-sols/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/auxi0ngg/leetcode-sols/tree/master/0525-contiguous-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/auxi0ngg/leetcode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/auxi0ngg/leetcode-sols/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/auxi0ngg/leetcode-sols/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/auxi0ngg/leetcode-sols/tree/master/0454-4sum-ii) |
 | [0525-contiguous-array](https://github.com/auxi0ngg/leetcode-sols/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/auxi0ngg/leetcode-sols/tree/master/0560-subarray-sum-equals-k) |
@@ -63,4 +65,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/auxi0ngg/leetcode-sols/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/auxi0ngg/leetcode-sols/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

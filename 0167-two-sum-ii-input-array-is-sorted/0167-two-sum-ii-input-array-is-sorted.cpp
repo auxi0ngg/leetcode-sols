@@ -15,6 +15,6 @@ public:
             if(target==sum)
                 return {l+1,r+1};
         }
-        return {l+1,r+1};
+        return {0,0};
     }
 };
